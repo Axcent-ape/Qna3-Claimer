@@ -1,4 +1,0 @@
-loguru==0.7.2
-web3==6.13.0
-aiohttp==3.9.1
-fake-useragent==1.4.0
